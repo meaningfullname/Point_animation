@@ -1,0 +1,13 @@
+body {
+    margin:0;
+    background-color: black;
+    position:fixed;
+}
+#checkboxes{
+    position:absolute;
+    top:10px;
+    right:5px;
+    color:white;
+    font-size:0.8em;
+    color:red;
+}
