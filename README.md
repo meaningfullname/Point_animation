@@ -4,7 +4,8 @@ A mesmerizing **3D spiral animation** built using pure **JavaScript** and **HTML
 
 ## 🎥 Preview
 
-![Animation Preview](preview.gif)  
+![Animation Preview](<img width="1904" height="868" alt="image" src="https://github.com/user-attachments/assets/7a6f646c-9408-471d-8820-f8bfc21416e0" />)  
+
 <sub>*If the GIF isn't playing, try opening this README in your browser.*</sub>
 
 > 🖱️ **Drag with your mouse** or use your finger on touch devices to rotate the scene.  
