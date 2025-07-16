@@ -72,7 +72,7 @@ const checkBox = (a) => {
         checkboxes.style.display = 'none'
         return Math.tan(a)*3
     }
-    else return 1;
+    else return 1;  
 };
 
 const init = () => {
